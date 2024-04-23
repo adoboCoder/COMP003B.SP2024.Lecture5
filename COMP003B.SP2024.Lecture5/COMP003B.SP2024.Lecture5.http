@@ -1,0 +1,6 @@
+@COMP003B.SP2024.Lecture5_HostAddress = http://localhost:5293
+
+GET {{COMP003B.SP2024.Lecture5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
